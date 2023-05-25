@@ -10,7 +10,7 @@ For full list of Hacker Discord servers - https://github.com/INIT6Source/Hacker_
 - [Adversary Village](https://discord.gg/rk44QhQR) - Adversary 
 - [Blue Team Village](https://discord.gg/blueteamvillage) - Blue Teams
 - [Car Hacking Village HQ](https://discord.gg/JWCCTAM) - Car Hacking 
-- [Cloud Village](https://discord.com/invite/EygUDJABee) - Cloud Security
+- [Cloud Village HQ](https://discord.com/invite/EygUDJABee) - Cloud Security
 - [Crypto & Privacy Village](https://cryptovillage.slack.com/) - Email CryptoVillage@gmail.com to request Slack access
 - [DEF CON](https://discord.gg/defcon) - DEF CON
 - [Hack-A-Sat](https://hackasat.com/) - Satellite Hacking
