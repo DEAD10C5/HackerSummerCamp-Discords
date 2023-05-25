@@ -1,4 +1,4 @@
-# DEF CON-Village-Discords
+# DEF CON Village Discord Servers
 
 List of DEF CON Village Discord servers. Please open a PR to submit a server - [SERVERNAME] & (URL) - #channel, category, server
 
