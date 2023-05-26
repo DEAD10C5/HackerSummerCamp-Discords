@@ -2,6 +2,8 @@
 
 List of DEF CON Village Discord servers. Please open a PR to submit a server - [SERVERNAME] & (URL)
 
+Not all Villages have Discord/Slack servers and may not be listed here. See the [DEF CON 31 forum](https://forum.defcon.org/node/244771) for a complete list of social's e.g., Twitter, Website, Mastadon, etc
+
 For full list of Hacker Discord servers - https://github.com/INIT6Source/Hacker_Discords
 
 - [Aerospace Village](https://discord.com/invite/gV4EWuk) - Aerospace Security
