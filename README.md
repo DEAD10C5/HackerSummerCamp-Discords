@@ -17,12 +17,14 @@ For full list of Hacker Discord servers - https://github.com/INIT6Source/Hacker_
 - [Cloud Village HQ](https://discord.com/invite/EygUDJABee) - Cloud Security
 - [Crypto & Privacy Village](https://cryptovillage.slack.com/) - Email CryptoVillage@gmail.com to request Slack access
 - [DEF CON](https://discord.gg/defcon) - DEF CON
+- [DEFCON Furs](https://discord.io/defconfurs) - DEFCON Furries Group
 - [DEF CON Groups VR](https://discord.gg/bsX4QXf3rD) - DEF CON Groups Virtual Reality
 - [Hack-A-Sat](https://hackasat.com/) - Satellite Hacking
 - [HAM Radio Village](https://discord.com/invite/hrv) - Amature (HAM) Radio
 - [Misinformation Village](https://discord.com/invite/misinformationvillage) - Dis- and Misinformation
 - [PepperCon](https://discord.gg/XdAzKhZryg) - The hottest thing at defcon. Come find us and feel the burn!
 - [Quantum Village](https://discord.gg/6WUjH5cBXu) - Quantum Computing
+- [QueerCord](https://discord.com/invite/jeG6Bh5) - QueerCon
 - [Radio Frequency Hackers Sanctuary](https://discord.gg/VtMthU8ash) - Radio Frequency (RF) 
 - [Recon Village](https://discord.gg/kRxDqGfb) - Recon 
 - [Red Team Village](https://discord.gg/redteamvillage) - Red Team 
