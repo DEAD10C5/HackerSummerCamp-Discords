@@ -7,6 +7,7 @@ Not all Villages have Discord/Slack servers and may not be listed here. See the 
 For full list of Hacker Discord servers - https://github.com/INIT6Source/Hacker_Discords
 
 - [Aerospace Village](https://discord.com/invite/gV4EWuk) - Aerospace Security
+- [AND!XOR](https://discord.gg/Frf5VpXN9F) - [BadgeLife & 5n4ck3y](https://www.andnxor.com/)
 - [Ai Village](discord.gg/xMK7fuu) - Artificial Intelligence Hacking
 - [AppSec Village](https://discord.gg/5XY8qYXd7R) - Application Security
 - [Adversary Village](https://discord.gg/rk44QhQR) - Adversary 
@@ -29,5 +30,4 @@ For full list of Hacker Discord servers - https://github.com/INIT6Source/Hacker_
 - [Recon Village](https://discord.gg/kRxDqGfb) - Recon 
 - [Red Team Village](https://discord.gg/redteamvillage) - Red Team 
 - [Retail Hacking Village](https://discord.gg/DxG4Uj7WZV) - Retail Hacking
-- [AND!XOR](https://discord.gg/Frf5VpXN9F) - [AND!XOR](https://www.andnxor.com/)
 - [Social Engineering Community](https://discord.gg/uzKP5XBpeH) - Social Engineering 
