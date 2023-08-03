@@ -28,5 +28,6 @@ For full list of Hacker Discord servers - https://github.com/INIT6Source/Hacker_
 - [Radio Frequency Hackers Sanctuary](https://discord.gg/VtMthU8ash) - Radio Frequency (RF) 
 - [Recon Village](https://discord.gg/kRxDqGfb) - Recon 
 - [Red Team Village](https://discord.gg/redteamvillage) - Red Team 
-- [Retail Hacking Village](https://discord.gg/DxG4Uj7WZV) - Retail Hacking 
+- [Retail Hacking Village](https://discord.gg/DxG4Uj7WZV) - Retail Hacking
+- [AND!XOR](https://discord.gg/Frf5VpXN9F) - [AND!XOR](https://www.andnxor.com/)
 - [Social Engineering Community](https://discord.gg/uzKP5XBpeH) - Social Engineering 
