@@ -17,6 +17,7 @@ For full list of Hacker Discord servers - https://github.com/INIT6Source/Hacker_
 - [Car Hacking Village HQ](https://discord.gg/JWCCTAM) - Car Hacking 
 - [Cloud Village HQ](https://discord.com/invite/EygUDJABee) - Cloud Security
 - [Crypto & Privacy Village](https://cryptovillage.slack.com/) - Email CryptoVillage@gmail.com to request Slack access
+- [DC HHV & SSV](https://discord.gg/FZj45BP5a) - DEFCON Hardware Hacking Village 
 - [DEF CON](https://discord.gg/defcon) - DEF CON
 - [DEFCON Furs](https://discord.io/defconfurs) - DEFCON Furries Group
 - [DEF CON Groups VR](https://discord.gg/bsX4QXf3rD) - DEF CON Groups Virtual Reality
