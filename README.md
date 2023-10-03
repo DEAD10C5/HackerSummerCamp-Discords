@@ -10,7 +10,8 @@ For full list of Hacker Discord servers - https://github.com/INIT6Source/Hacker_
 - [AND!XOR](https://discord.gg/Frf5VpXN9F) - [BadgeLife & 5n4ck3y](https://www.andnxor.com/)
 - [Ai Village](discord.gg/xMK7fuu) - Artificial Intelligence Hacking
 - [AppSec Village](https://discord.gg/5XY8qYXd7R) - Application Security
-- [Adversary Village](https://discord.gg/rk44QhQR) - Adversary 
+- [Adversary Village](https://discord.gg/rk44QhQR) - Adversary
+- [BadgeMakers](http://discord.badge.life/) - Badge Life, Electronics, Buy / Sell / Trade / Learn
 - [Biohacking Village](https://discord.gg/Q8ubDb5) - Biohacking
 - [Blue Team Village](https://discord.gg/blueteamvillage) - Blue Teams
 - [BSides Las Vegas](https://discord.gg/JeeAjMCN) - BSides Las Vegas
@@ -19,6 +20,7 @@ For full list of Hacker Discord servers - https://github.com/INIT6Source/Hacker_
 - [Crypto & Privacy Village](https://cryptovillage.slack.com/) - Email CryptoVillage@gmail.com to request Slack access
 - [DC HHV & SSV](https://discord.gg/FZj45BP5a) - DEFCON Hardware Hacking Village 
 - [DEF CON](https://discord.gg/defcon) - DEF CON
+- [DEF CON Book Club](https://discord.gg/Mq9fnH6h) - Book Club
 - [DEFCON Furs](https://discord.io/defconfurs) - DEFCON Furries Group
 - [DEF CON Groups VR](https://discord.gg/bsX4QXf3rD) - DEF CON Groups Virtual Reality
 - [Hack-A-Sat](https://hackasat.com/) - Satellite Hacking
