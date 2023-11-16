@@ -15,7 +15,7 @@ For full list of Hacker Discord servers - https://github.com/INIT6Source/Hacker_
 - [Biohacking Village](https://discord.gg/Q8ubDb5) - Biohacking
 - [Blue Team Village](https://discord.gg/blueteamvillage) - Blue Teams
 - [BSides Las Vegas](https://discord.gg/JeeAjMCN) - BSides Las Vegas
-- [Car Hacking Village HQ](https://discord.gg/JWCCTAM) - Car Hacking 
+- [Car Hacking Village HQ](https://discord.com/invite/JWCcTAM) - Car Hacking 
 - [Cloud Village HQ](https://discord.com/invite/EygUDJABee) - Cloud Security
 - [Crypto & Privacy Village](https://cryptovillage.slack.com/) - Email CryptoVillage@gmail.com to request Slack access
 - [DC HHV & SSV](https://discord.gg/FZj45BP5a) - DEFCON Hardware Hacking Village 
