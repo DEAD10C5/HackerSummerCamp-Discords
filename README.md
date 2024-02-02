@@ -26,6 +26,7 @@ For full list of Hacker Discord servers - https://github.com/INIT6Source/Hacker_
 - [Hack-A-Sat](https://hackasat.com/) - Satellite Hacking
 - [HAM Radio Village](https://discord.com/invite/hrv) - Amature (HAM) Radio
 - [Misinformation Village](https://discord.com/invite/misinformationvillage) - Dis- and Misinformation
+- [OnlyFeet](https://discord.gg/onlyfeet) - CTF
 - [PepperCon](https://discord.gg/XdAzKhZryg) - The hottest thing at defcon. Come find us and feel the burn!
 - [Quantum Village](https://discord.gg/6WUjH5cBXu) - Quantum Computing
 - [QueerCord](https://discord.com/invite/jeG6Bh5) - QueerCon
